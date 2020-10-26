@@ -1,0 +1,10 @@
+onlineshop\AbstractEvent.class
+onlineshop\Order.class
+onlineshop\OrderRepository.class
+onlineshop\Ordered.class
+onlineshop\OrderedCancled.class
+onlineshop\AbstractEvent$1.class
+onlineshop\config\kafka\KafkaProcessor.class
+onlineshop\PolicyHandler.class
+onlineshop\OrderController.class
+onlineshop\OrderApplication.class
